@@ -5,5 +5,6 @@ public class HelloWorld {
 		System.out.println("Hello Git World!!!");
 		System.out.println("This content is second branch");
 		System.out.println("This is conflict test~");
+		System.out.println("Why are you serious?");
 	}
 }
