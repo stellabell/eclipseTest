@@ -5,5 +5,6 @@ public class SayHello {
 		System.out.println("Test to save at remote storage");
 		System.out.println("conflict testing");
 		System.out.println("Modify the contents");
+		System.out.println("pull testing....");
 	}
 }
